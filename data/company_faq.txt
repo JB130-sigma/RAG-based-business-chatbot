@@ -1,0 +1,214 @@
+& PLANS
+
+1. CRM Starter Plan costs $29 per month.
+2. CRM Professional Plan costs $99 per month.
+3. CRM Enterprise Plan costs $299 per month.
+4. The Starter Plan supports up to 5 users.
+5. The Professional Plan supports up to 25 users.
+6. The Enterprise Plan supports unlimited users.
+7. All plans include secure cloud hosting.
+8. All plans include contact management features.
+9. All plans include lead tracking capabilities.
+10. Monthly billing is enabled by default.
+11. Annual subscriptions receive a 15% discount.
+12. Customers can switch plans at any time.
+13. Plan upgrades take effect immediately.
+14. Plan downgrades take effect at the next billing cycle.
+15. Starter Plan includes email support.
+16. Professional Plan includes priority email support.
+17. Enterprise Plan includes dedicated account management.
+18. Starter Plan includes 5 GB of storage.
+19. Professional Plan includes 50 GB of storage.
+20. Enterprise Plan includes 500 GB of storage.
+21. Additional storage can be purchased separately.
+22. Storage upgrades are billed monthly.
+23. Professional Plan includes workflow automation.
+24. Enterprise Plan includes advanced workflow automation.
+25. Starter Plan users can create basic reports.
+26. Professional users can create custom reports.
+27. Enterprise users can create advanced analytics dashboards.
+28. API access is not included in the Starter Plan.
+29. API access is included in Professional and Enterprise plans.
+30. Enterprise customers receive higher API limits.
+31. Professional Plan includes sales pipeline management.
+32. Enterprise Plan includes multi-pipeline management.
+33. Starter Plan supports a single sales pipeline.
+34. Enterprise customers receive onboarding assistance.
+35. Professional customers receive implementation guides.
+36. Starter customers receive self-service onboarding resources.
+37. Enterprise contracts may include custom pricing.
+38. Custom enterprise pricing requires a sales consultation.
+39. Nonprofit organizations may qualify for discounts.
+40. Educational institutions may qualify for special pricing.
+41. Volume discounts are available for large teams.
+42. Discounts apply only to annual subscriptions.
+43. Promotional offers may have separate terms.
+44. Free trials are available for new customers.
+45. Free trials last for 14 days.
+46. No credit card is required for the free trial.
+47. Trial users can upgrade at any time.
+48. Trial accounts automatically expire after 14 days.
+49. Enterprise trials may be extended upon request.
+50. Customers can manage subscriptions online.
+51. Billing information can be updated from the account settings page.
+52. Subscription invoices are generated automatically.
+53. Invoices can be downloaded in PDF format.
+54. Customers receive invoice notifications by email.
+55. Taxes may apply depending on customer location.
+56. Prices are displayed in U.S. dollars by default.
+57. Alternative currencies may be available in selected regions.
+58. Failed payments trigger automated reminders.
+59. Repeated payment failures may result in account suspension.
+60. Suspended accounts can be restored after payment.
+61. Refund requests must be submitted within 30 days.
+62. Refund approvals are reviewed by the billing team.
+63. Approved refunds are processed within 10 business days.
+64. Partial refunds may be available in special circumstances.
+65. Subscription cancellations can be completed online.
+66. Customers retain access until the end of the billing period.
+67. Enterprise customers may have customized cancellation terms.
+68. Plan limits are visible in the account dashboard.
+69. User limits are enforced according to the active plan.
+70. Storage limits are monitored automatically.
+71. Customers receive alerts when approaching storage limits.
+72. Extra user licenses can be purchased separately.
+73. Additional licenses are billed on a prorated basis.
+74. Professional Plan includes email campaign tracking.
+75. Enterprise Plan includes advanced marketing automation.
+76. Starter Plan includes basic activity tracking.
+77. Professional Plan includes sales forecasting tools.
+78. Enterprise Plan includes predictive analytics features.
+79. Enterprise Plan includes advanced security controls.
+80. Professional Plan includes role-based permissions.
+81. Starter Plan includes standard user permissions.
+82. Enterprise customers can request custom integrations.
+83. Custom integrations may involve additional fees.
+84. Professional Plan includes standard CRM integrations.
+85. Starter Plan supports limited third-party integrations.
+86. Enterprise customers receive quarterly business reviews.
+87. Professional customers receive product training webinars.
+88. Starter customers receive access to the knowledge base.
+89. Account usage reports are available in Professional plans.
+90. Advanced usage reports are available in Enterprise plans.
+91. Enterprise customers can negotiate service-level agreements.
+92. Service-level agreements are not available in Starter plans.
+93. Professional customers receive faster support response times.
+94. Enterprise customers receive priority issue escalation.
+95. Subscription renewals occur automatically unless canceled.
+96. Customers receive renewal reminders before annual renewals.
+97. Billing history is retained for 24 months.
+98. Customers can download historical invoices at any time.
+99. Pricing changes are communicated in advance.
+100. Existing contracts honor agreed pricing until renewal.
+
+SUPPORT POLICIES
+
+1. Customer support tickets are answered within 24 hours.
+2. WhatsApp support is available 24 hours a day, 7 days a week.
+3. Email support is available for all subscription plans.
+4. Live chat support is available Monday through Friday.
+5. Enterprise customers receive priority support services.
+6. Support requests can be submitted through the customer portal.
+7. Customers receive a ticket number for every support request.
+8. Ticket updates are communicated by email.
+9. Support agents may request additional information to investigate issues.
+10. Screenshots can be attached to support tickets.
+
+11. Customers should provide detailed issue descriptions.
+12. Support tickets are handled in the order they are received.
+13. Critical issues may be prioritized for faster resolution.
+14. Enterprise clients have access to dedicated account managers.
+15. Account managers assist with escalated support cases.
+16. Support services are provided in English.
+17. Additional language support may be available in selected regions.
+18. Customers can track ticket status online.
+19. Support tickets remain open until confirmed resolved.
+20. Closed tickets can be reopened within 14 days.
+
+21. Support teams are available during business hours for live chat.
+22. Email inquiries are monitored throughout the week.
+23. Emergency incidents are handled according to severity levels.
+24. System outages receive immediate investigation.
+25. Service status updates are published on the status page.
+26. Planned maintenance announcements are provided in advance.
+27. Customers are notified of major service interruptions.
+28. Support staff maintain records of customer interactions.
+29. Customer feedback helps improve support quality.
+30. Satisfaction surveys may be sent after ticket closure.
+
+31. Password reset requests are processed automatically.
+32. Account recovery requests require identity verification.
+33. Support agents cannot view customer passwords.
+34. Multi-factor authentication issues can be reported to support.
+35. Login problems are investigated upon request.
+36. Users should verify account email addresses before contacting support.
+37. Browser-related issues may require troubleshooting steps.
+38. Customers should keep software updated for best performance.
+39. Support may recommend clearing browser cache.
+40. Browser extensions may interfere with CRM functionality.
+
+41. File upload problems may occur if size limits are exceeded.
+42. Supported file formats are listed in product documentation.
+43. Corrupted file uploads may need to be retried.
+44. Support can assist with import and export issues.
+45. CSV import errors should include sample files when reported.
+46. Data migration assistance is available for Enterprise customers.
+47. Professional customers receive migration guidance documents.
+48. Starter customers can access self-service migration tutorials.
+49. Import failures should be reported with error messages.
+50. Export requests are generally processed immediately.
+
+51. API-related issues can be reported through developer support channels.
+52. API support is available for Professional and Enterprise plans.
+53. Invalid API credentials may result in authentication errors.
+54. API rate limit violations generate error responses.
+55. Support can help investigate API connectivity issues.
+56. Customers should provide request logs when reporting API problems.
+57. API documentation should be reviewed before submitting tickets.
+58. Sandbox environments may be available for testing.
+59. API keys should never be shared publicly.
+60. Compromised API keys should be regenerated immediately.
+
+61. Billing questions can be submitted through the support portal.
+62. Invoice-related inquiries are handled by the billing team.
+63. Refund requests must comply with refund policies.
+64. Payment failures can be reviewed by support agents.
+65. Customers can update payment methods through account settings.
+66. Subscription upgrade issues should be reported promptly.
+67. Downgrade requests take effect at the next billing cycle.
+68. Billing disputes are reviewed within five business days.
+69. Enterprise contracts may have dedicated billing contacts.
+70. Subscription cancellations can be completed online.
+
+71. Security incidents should be reported immediately.
+72. Support teams investigate suspected unauthorized access.
+73. Customers should change passwords after security concerns.
+74. Security reports are treated as high-priority requests.
+75. Data privacy inquiries are handled by compliance specialists.
+76. Sensitive account information may require verification procedures.
+77. Support agents follow strict privacy guidelines.
+78. Customer data is never shared without authorization.
+79. Security updates are applied regularly.
+80. Customers are encouraged to enable multi-factor authentication.
+
+81. Training resources are available through the knowledge base.
+82. Video tutorials are available for common workflows.
+83. Webinars are offered for Professional and Enterprise customers.
+84. Enterprise customers may request personalized training sessions.
+85. Support can provide links to relevant documentation.
+86. Self-service resources are available at any time.
+87. Frequently asked questions are maintained in the help center.
+88. Product guides are updated regularly.
+89. New feature announcements include support documentation.
+90. Customers are encouraged to review release notes.
+
+91. Escalated cases are reviewed by senior support specialists.
+92. High-priority incidents may involve engineering teams.
+93. Resolution times vary depending on issue complexity.
+94. Customers receive updates during extended investigations.
+95. Temporary workarounds may be provided when available.
+96. Root cause analyses may be shared for major incidents.
+97. Support metrics are monitored to improve service quality.
+98. Continuous improvements are made based on customer feedback.
+99. The support team strives to resolve issues efficiently.
+100. Customer success remains a core support objective.
