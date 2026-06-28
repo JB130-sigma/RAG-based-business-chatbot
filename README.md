@@ -4,8 +4,6 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers business-related que
 
 The application uses semantic search with vector embeddings to retrieve relevant information from enterprise documents and generates accurate responses using a locally hosted Llama 3 model through Ollama.
 
----
-
 # 📌 Features
 
 * 📄 Enterprise knowledge base using text documents
@@ -17,7 +15,6 @@ The application uses semantic search with vector embeddings to retrieve relevant
 * 📚 Retrieved context viewer for transparency
 * 🔒 Reduced hallucination by grounding answers in retrieved documents
 
----
 
 # 🏗️ Project Architecture
 
