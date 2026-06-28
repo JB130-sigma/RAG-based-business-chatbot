@@ -91,9 +91,8 @@ enterprise-rag-bot/
 └── screenshots/
 ```
 
----
 
-# 🚀 Installation
+# Installation
 
 ## Clone Repository
 
@@ -103,7 +102,6 @@ git clone https://github.com/yourusername/enterprise-rag-bot.git
 cd enterprise-rag-bot
 ```
 
----
 
 ## Create Virtual Environment
 
